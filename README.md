@@ -77,14 +77,14 @@ Anote los resultados medidos
 
 ![]()
 
-**6.5.5¿Se cumple el Teorema de la Máxima Transferencia de Potencia? Argumente su
+**4.5.5¿Se cumple el Teorema de la Máxima Transferencia de Potencia? Argumente su
 respuesta.**
 
-**6.5.6¿Cuál fue la potencia máxima en RL? __________________Watts**
+**4.5.6¿Cuál fue la potencia máxima en RL? __________________Watts**
 
-**6.5.7¿Para qué valor de RL se obtiene la MTP? _______________ Ω**
+**4.5.7¿Para qué valor de RL se obtiene la MTP? _______________ Ω**
 
-*6.5.8.Grafique la curva Potencia vs RL y comente.
+**4.5.8.Grafique la curva Potencia vs RL y comente.**
 
 **Calcular errores de las mediciones y comentar los resultados.**
 
