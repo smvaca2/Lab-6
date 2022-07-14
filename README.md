@@ -54,13 +54,13 @@ fuente, RS.
 
 **4.4. MATERIAL Y EQUIPO REQUERIDO**
 
-![]()
+![](https://github.com/smvaca2/Lab-6/blob/111c5512ed83ce68167dde5e02163cd7eddecc1a/materiales.PNG)
 
 **4.5. PROCEDIMIENTO**
 
 *4.5.1. Arme el circuito que se muestra en la figura 5.1.*
 
-![]()
+![](https://github.com/smvaca2/Lab-6/blob/111c5512ed83ce68167dde5e02163cd7eddecc1a/circuito.PNG)
 
 *4.5.2. Mida el voltaje y la corriente para cada valor de RL que se indica en la tabla 4.1.
 Anote los resultados medidos.*
@@ -93,13 +93,13 @@ Anote los resultados medidos
 
 **Tabla 4.1. Parámetros Eléctricos del circuito de la figura 4.1.**
 
-![]()
+![](https://github.com/smvaca2/Lab-6/blob/111c5512ed83ce68167dde5e02163cd7eddecc1a/WhatsApp%20Image%202022-07-13%20at%209.12.35%20PM.jpeg)
 
-![]()
+![](https://github.com/smvaca2/Lab-6/blob/111c5512ed83ce68167dde5e02163cd7eddecc1a/WhatsApp%20Image%202022-07-13%20at%209.32.37%20PM.jpeg)
 
 **Calcular errores de las mediciones y comentar los resultados.**
 
-![]()
+![](https://github.com/smvaca2/Lab-6/blob/111c5512ed83ce68167dde5e02163cd7eddecc1a/WhatsApp%20Image%202022-07-13%20at%209.29.53%20PM.jpeg)
 
 ***5.-VIDEO***
 
