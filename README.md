@@ -65,6 +65,10 @@ Anote los resultados medidos.*
 
 ![](https://github.com/smvaca2/Lab-6/blob/9aa49cf4b947ee60b31ef66696048e80bb5d2c63/b.PNG)
 
+Circuito modelo en físico para medir el voltaje y corriente, a partir del cual se podrá calcular la potencia
+
+![](https://github.com/smvaca2/Lab-6/blob/7d59f648f4e32765e4d2c606aa20577c23026cd6/WhatsApp%20Image%202022-07-13%20at%209.35.16%20PM.jpeg)
+
 *4.5.3. Calcule la potencia consumida por RL, para cada valor dado y anote los
 resultados en la tabla 4.1.*
 
@@ -76,6 +80,8 @@ los resultados en la tabla 4.1.*
 ![](https://github.com/smvaca2/Lab-6/blob/9aa49cf4b947ee60b31ef66696048e80bb5d2c63/1.PNG)
 
 ![](https://github.com/smvaca2/Lab-6/blob/9aa49cf4b947ee60b31ef66696048e80bb5d2c63/2.PNG)
+
+![](https://github.com/smvaca2/Lab-6/blob/7d59f648f4e32765e4d2c606aa20577c23026cd6/WhatsApp%20Image%202022-07-13%20at%209.35.16%20PM.jpeg)
 
 Anote los resultados medidos
 
