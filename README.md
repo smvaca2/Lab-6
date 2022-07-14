@@ -16,11 +16,15 @@ _Martin Vaca
 
 ***3.-EXPLICACIÓN DEL PROCEDIMIENTO***
 
-![]()
+![](https://github.com/smvaca2/Lab-6/blob/b38a8eff2eaf7cf4626f4bb13f11854a757b56bf/WhatsApp%20Image%202022-07-13%20at%208.50.53%20PM%20(1).jpeg)
 
-![]()
+![](https://github.com/smvaca2/Lab-6/blob/72ea6c4f27dd91a85e6cc1e508109bb2cf2e4fd1/WhatsApp%20Image%202022-07-13%20at%208.51.22%20PM.jpeg)
 
-![]()
+![](https://github.com/smvaca2/Lab-6/blob/72ea6c4f27dd91a85e6cc1e508109bb2cf2e4fd1/WhatsApp%20Image%202022-07-13%20at%208.51.35%20PM.jpeg)
+
+![](https://github.com/smvaca2/Lab-6/blob/72ea6c4f27dd91a85e6cc1e508109bb2cf2e4fd1/WhatsApp%20Image%202022-07-13%20at%208.51.49%20PM.jpeg)
+
+![](https://github.com/smvaca2/Lab-6/blob/72ea6c4f27dd91a85e6cc1e508109bb2cf2e4fd1/WhatsApp%20Image%202022-07-13%20at%208.52.03%20PM.jpeg)
 
 ***4.-RESPUESTA A INTERROGANTES Y CALCULO DE ERROR***
 
