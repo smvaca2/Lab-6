@@ -68,11 +68,15 @@ fuente, RS.
 *4.5.2. Mida el voltaje y la corriente para cada valor de RL que se indica en la tabla 4.1.
 Anote los resultados medidos.*
 
- *==Se adjuntaran unicamente dos ejemplos de este proceso ya que para todas las resistencias se realizará el mismo proceso==*
+ *==Se adjuntaran unicamente cuatro ejemplos de este proceso ya que para todas las resistencias se realizará el mismo proceso==*
 
 ![](https://github.com/smvaca2/Lab-6/blob/9aa49cf4b947ee60b31ef66696048e80bb5d2c63/a.PNG)
 
 ![](https://github.com/smvaca2/Lab-6/blob/9aa49cf4b947ee60b31ef66696048e80bb5d2c63/b.PNG)
+
+![](https://github.com/smvaca2/Lab-6/blob/609c79c59e6bed71d520cbb6c3336b6f3d11236b/3.PNG)
+
+![](https://github.com/smvaca2/Lab-6/blob/609c79c59e6bed71d520cbb6c3336b6f3d11236b/5.PNG)
 
 Circuito modelo en físico para medir el voltaje y corriente, a partir del cual se podrá calcular la potencia
 
@@ -89,6 +93,10 @@ los resultados en la tabla 4.1.*
 ![](https://github.com/smvaca2/Lab-6/blob/9aa49cf4b947ee60b31ef66696048e80bb5d2c63/1.PNG)
 
 ![](https://github.com/smvaca2/Lab-6/blob/9aa49cf4b947ee60b31ef66696048e80bb5d2c63/2.PNG)
+
+![](https://github.com/smvaca2/Lab-6/blob/609c79c59e6bed71d520cbb6c3336b6f3d11236b/c.PNG)
+
+![](https://github.com/smvaca2/Lab-6/blob/609c79c59e6bed71d520cbb6c3336b6f3d11236b/d.PNG)
 
 ![](https://github.com/smvaca2/Lab-6/blob/7d59f648f4e32765e4d2c606aa20577c23026cd6/WhatsApp%20Image%202022-07-13%20at%209.35.16%20PM.jpeg)
 
