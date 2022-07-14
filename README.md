@@ -9,6 +9,9 @@ _Martin Vaca
 
 ***1.-OBJETIVOS***
 
+_Estudiar en qué valores se cumple el teorema de máxima transferencia de energía de potencia
+
+_Hacer uso del vatímetro, entendiendo su funcionamiento y uso
 
 ***2.-MARCO TEÓRICO***
 
@@ -103,9 +106,10 @@ Anote los resultados medidos
 
 ***5.-VIDEO***
 
-
-
 ***6.-CONCLUSIONES***
+
+Como se pudo observar en la respuestas a las preguntas establecidas en la guía, si se cumple la máxima transferencia de energía, aunque por el uso de un nuevo simulador los resultados de este laboratorio varían ya que la máxima transferencia de potencia se da en la resistencia de 1500ohms cuando debería ser la de 1200ohms, pero asumiendo que es un error de redondeo del propio simulador se dejaron los datos tal y como se los obtuvo. 
+Es importante resaltar que para este laboratorio fueron importantes los conocimientos del teorema de Thevenin y circuitos equivalentes.
 
 ***7.-BIBLIOGRAFÍA***
 
