@@ -33,7 +33,7 @@ _Hacer uso del vatímetro, entendiendo su funcionamiento y uso
 
 ***4.-RESPUESTA A INTERROGANTES Y CALCULO DE ERROR***
 
-**==========================Teorema de Thevenin==========================**
+**===================Teorema de la Máxima Transferencia de Potencia ======================**
 
 **4.1. OBJETIVO DE LA PRÁCTICA**
 
