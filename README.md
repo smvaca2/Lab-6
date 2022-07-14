@@ -12,7 +12,7 @@ _Martin Vaca
 
 ***2.-MARCO TEÓRICO***
 
-![]()
+![](https://github.com/smvaca2/Lab-6/blob/9aa49cf4b947ee60b31ef66696048e80bb5d2c63/teoria.PNG)
 
 ***3.-EXPLICACIÓN DEL PROCEDIMIENTO***
 
@@ -59,17 +59,23 @@ fuente, RS.
 *4.5.2. Mida el voltaje y la corriente para cada valor de RL que se indica en la tabla 4.1.
 Anote los resultados medidos.*
 
-![]()
+ *==Se adjuntaran unicamente dos ejemplos de este proceso ya que para todas las resistencias se realizará el mismo proceso==*
+
+![](https://github.com/smvaca2/Lab-6/blob/9aa49cf4b947ee60b31ef66696048e80bb5d2c63/a.PNG)
+
+![](https://github.com/smvaca2/Lab-6/blob/9aa49cf4b947ee60b31ef66696048e80bb5d2c63/b.PNG)
 
 *4.5.3. Calcule la potencia consumida por RL, para cada valor dado y anote los
 resultados en la tabla 4.1.*
 
-![]()
-
 *4.5.4. Mida la potencia empleando un vatímetro en el software ACDCLAB en RL y anote
 los resultados en la tabla 4.1.*
 
-![]()
+*==Se adjuntaran unicamente dos ejemplos de este proceso ya que para todas las resistencias se realizará el mismo proceso==*
+
+![](https://github.com/smvaca2/Lab-6/blob/9aa49cf4b947ee60b31ef66696048e80bb5d2c63/1.PNG)
+
+![](https://github.com/smvaca2/Lab-6/blob/9aa49cf4b947ee60b31ef66696048e80bb5d2c63/2.PNG)
 
 Anote los resultados medidos
 
@@ -77,14 +83,7 @@ Anote los resultados medidos
 
 ![]()
 
-**4.5.5¿Se cumple el Teorema de la Máxima Transferencia de Potencia? Argumente su
-respuesta.**
-
-**4.5.6¿Cuál fue la potencia máxima en RL? __________________Watts**
-
-**4.5.7¿Para qué valor de RL se obtiene la MTP? _______________ Ω**
-
-**4.5.8.Grafique la curva Potencia vs RL y comente.**
+![]()
 
 **Calcular errores de las mediciones y comentar los resultados.**
 
