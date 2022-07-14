@@ -112,7 +112,7 @@ Anote los resultados medidos
 
 ***5.-VIDEO***
 
-https://www.youtube.com/watch?v=ndj4ROP7HIs
+https://youtu.be/ndj4ROP7Hls
 
 ***6.-CONCLUSIONES***
 
