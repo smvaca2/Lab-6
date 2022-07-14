@@ -106,6 +106,8 @@ Anote los resultados medidos
 
 ***5.-VIDEO***
 
+https://www.youtube.com/watch?v=ndj4ROP7HIs
+
 ***6.-CONCLUSIONES***
 
 Como se pudo observar en la respuestas a las preguntas establecidas en la guía, si se cumple la máxima transferencia de energía, aunque por el uso de un nuevo simulador los resultados de este laboratorio varían ya que la máxima transferencia de potencia se da en la resistencia de 1500ohms cuando debería ser la de 1200ohms, pero asumiendo que es un error de redondeo del propio simulador se dejaron los datos tal y como se los obtuvo. 
